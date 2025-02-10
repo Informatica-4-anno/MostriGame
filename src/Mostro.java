@@ -1,0 +1,4 @@
+
+interface Mostro {
+    void azzanna();
+}
